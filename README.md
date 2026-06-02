@@ -19,5 +19,4 @@ Instruções para Execução do Projeto
 Para rodar este projeto localmente na sua máquina, certifique-se de ter o Node.js instalado e siga os passos abaixo:
 
 1. Clonar o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO_GITHUB/Projeto_Site_cadastro.git](https://github.com/SEU_USUARIO_GITHUB/Projeto_Site_cadastro.git)
+git clone https://github.com/Fipemoura/Projeto_Site_cadastro.git
