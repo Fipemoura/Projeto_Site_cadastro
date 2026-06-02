@@ -5,6 +5,7 @@ Aluno: Filipe de Araújo Moura - RA: 202451090534
 Último Refúgio - Painel de Controle de Estoque
 
 Objetivo do Sistema
+
 Este sistema é o modelo de gerenciamento de estoque da loja online Último Refúgio.
 Desenvolvido em React.JS, o sistema cumpre todos os requisitos acadêmicos de um CRUD completo, permitindo que administradores criem, listem, editem e excluam equipamentos e produtos táticos de forma dinâmica.
 
